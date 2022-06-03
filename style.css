@@ -29,4 +29,5 @@ button{
     padding: 23px;
     border-radius: 15px;
     height: auto;
+    border: 5px solid rgba(3, 30, 52, 0.614);
 }
