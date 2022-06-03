@@ -17,7 +17,7 @@ button{
     font-size: 40px;
     background-image: linear-gradient(to bottom, #df7f02 0%, #ffb700 100%);
     width: 105px;
-    height: 58px;
+    height: 60px;
     border-color: white;
     border-radius: 15px;
     
@@ -28,4 +28,5 @@ button{
     background-image: linear-gradient(to bottom, #090979 0%, #00d4ff 100%);
     padding: 23px;
     border-radius: 15px;
+    height: auto;
 }
